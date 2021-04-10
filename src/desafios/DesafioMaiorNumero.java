@@ -1,4 +1,4 @@
-//Faça um programa que imprima na tela os números de 1 a 20
+//Faça um programa que leia 5 números e informe o maior número
 package desafios;
 
 import java.util.Scanner;
